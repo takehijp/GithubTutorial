@@ -11,6 +11,9 @@ while True:
 
     elif input_num == 1:
         print("Hello World 2")
+
+    elif input_num == 2:
+        print("hey hey")
         
 
     else:
