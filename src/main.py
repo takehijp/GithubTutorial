@@ -8,5 +8,10 @@ while True:
         print('プログラムを終了します')
         break
     # -- ここに処理を追加してみよう --
+
+    elif input_num == 1:
+        print("Hello World 2")
+        
+
     else:
         print('該当するコマンドがありません')
